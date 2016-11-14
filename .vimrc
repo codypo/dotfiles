@@ -5,10 +5,14 @@ set softtabstop=4
 set tabstop=4
 set expandtab
 set autoindent
-set smartindent
+set cindent
 set smarttab
 set expandtab
-filetype indent plugin on
-syntax on
+set number
+set ruler
 
-colorscheme evening
+colo desert
+
+syntax on
+filetype indent plugin on
+
