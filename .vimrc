@@ -1,5 +1,3 @@
-execute pathogen#infect()
-
 set shiftwidth=4
 set softtabstop=4
 set tabstop=4
@@ -15,5 +13,3 @@ colo desert
 
 syntax on
 filetype indent plugin on
-
-
